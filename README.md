@@ -44,6 +44,25 @@ Try a free taster of each for 2–3 hours before committing.
 - Learn to talk through a project: problem → options → choice → result.
 - Keep shipping small commits; a live GitHub streak answers "but can they actually code?".
 
+## Deep-dive: the data lane, month by month
+
+Same 6-month shape as the web plan above — swap the content, keep the discipline.
+
+### Months 1–2 — Spreadsheets, SQL, one language
+- Learn Excel or Google Sheets properly first: pivot tables, lookups, cleaning messy exports. Plenty of data analyst interviews still open with a spreadsheet exercise.
+- SQL fundamentals: `SELECT`, `WHERE`, `JOIN`, `GROUP BY`. SQL shows up in more data job ads than any other single skill — it earns more interview time than anything else on this list.
+- Python basics with pandas for loading, cleaning and summarising data. Same rule as the web lane: typing beats watching.
+- **Milestone:** answer 3 real questions from a public dataset using SQL and a spreadsheet, written up in a short README each.
+
+### Months 3–4 — Projects with real, messy data
+- Pick datasets from your CURRENT industry — an ex-retail worker analysing sales seasonality reads as an analyst, not a student.
+- Add one dashboard tool (Power BI or Tableau — pick by local job ads, don't learn both).
+- **Milestone:** 2 published projects, each with the question, the cleaning steps, the finding, and what you'd do next. The write-up matters as much as the chart.
+
+### Months 5–6 — The same job layer
+- Job titles to search: data analyst, insight analyst, reporting analyst, junior data engineer. "Analyst" roles inside your current industry are the softest landing.
+- Interviews usually mean a live SQL exercise plus "walk me through an analysis". Rehearse one project out loud: question → data → cleaning → finding → limitation.
+
 ## What actually gets people hired
 
 1. **Proof of work** — deployed projects with readable code and honest READMEs.
