@@ -63,6 +63,28 @@ Same 6-month shape as the web plan above — swap the content, keep the discipli
 - Job titles to search: data analyst, insight analyst, reporting analyst, junior data engineer. "Analyst" roles inside your current industry are the softest landing.
 - Interviews usually mean a live SQL exercise plus "walk me through an analysis". Rehearse one project out loud: question → data → cleaning → finding → limitation.
 
+## Deep-dive: the IT & support lane, month by month
+
+The lowest-friction entry into tech for most career changers, and the usual first step into cyber security. Less coding than the other lanes; more troubleshooting, customer service and systems knowledge. Same 6-month shape, same weekly hours.
+
+### Months 1–2 — Hardware, operating systems, networking basics
+- Work through the CompTIA A+ syllabus (two exams, Core 1 and Core 2) as your curriculum, even if you don't sit the exam yet — it covers hardware, Windows, macOS, Linux, mobile devices, basic networking and security. The free Google IT Support Professional Certificate covers similar ground with more video and less depth.
+- Learn how a network actually moves a packet: IP addresses, DNS, DHCP, subnets, what a router does. Most "the internet is down" tickets are one of these.
+- Build a home lab from what you already own: an old laptop with Linux installed, VirtualBox with a Windows VM, and a spare router. Break things, fix them, write down how. See our [it-certification-roadmap](https://github.com/korra-academy/it-certification-roadmap) for which exams matter and when.
+- **Milestone:** a troubleshooting log with 10 real problems you fixed (yours, family, friends) written as ticket notes — symptom, steps tried, root cause, fix.
+
+### Months 3–4 — Windows administration, one exam, a ticketing habit
+- Windows Server basics in your lab: Active Directory, users and groups, group policy, file shares. This is the daily work in most service desk roles.
+- Sit CompTIA A+ if you can afford it; if not, complete a free practice set and record the result honestly. A+ is the cert most often named in first-line job ads, but proof you can fix things counts for more.
+- Practise writing tickets the way a service desk does: short, factual, reproducible, with the fix stated. Communication is graded in this lane as much as technical skill.
+- **Milestone:** a documented home lab (a README with diagram, what runs where, what you'd add next) and 20+ troubleshooting log entries.
+
+### Months 5–6 — The same job layer
+- Job titles to search: service desk analyst, IT support technician, 1st line support, desktop support, IT helpdesk. Managed service providers (MSPs) and schools hire juniors constantly and tolerate career changers well.
+- Your current career is the pitch: years of dealing with frustrated customers, working to a rota, or keeping calm under pressure maps directly to a service desk. Say so on the CV.
+- Interviews usually mix a customer-service scenario ("a user says their laptop is slow — what do you do?") with a couple of factual questions (what DNS is, what a VPN does). Rehearse talking through a fix out loud: ask questions → narrow it down → try the cheap fix first → explain it to the user in plain English.
+- Once in, the ladder is clear: 1st line → 2nd line → systems administration, networking, or cyber security (SOC analyst). Twelve months on a service desk is the most common background in a first security hire.
+
 ## What actually gets people hired
 
 1. **Proof of work** — deployed projects with readable code and honest READMEs.
